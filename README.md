@@ -1,30 +1,20 @@
 # Hi, I'm Ermir 👋
 
-I'm building **Joy** — an AI agent platform: agent runtime, specialized agents, provider abstraction, sandboxed execution, and a production server.
+Student & AI engineer — currently deep in **machine learning**, building AI agents along the way.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/SQL-63B4FF?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7C948?logo=tensorflow&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Learning-Fc6d26?logo=pytorch&logoColor=white" alt="Learning">
 </p>
 
-## What I'm building
+## What I'm into
 
-The Joy agent stack (developed in private repos):
-
-- **Agent core** — shared agent runtime & orchestration
-- **Coding / Cowork / Codesign agents** — agents specialized for writing code, collaborating, and design work
-- **AI providers** — unified provider layer over LLMs
-- **Sandbox** — safe execution environment (Python + Rust)
-- **Agent server** — production service (Python + SQL)
-
-## Stack
-
-Python · TypeScript · Rust · SQL
+- 🤖 AI agents — building, sandboxing, and shipping them
+- 📊 Machine learning — studying it seriously right now
+- 🐍 Python, TypeScript, Rust
 
 ## Elsewhere
 
 - 🎯 [Portfolio](https://github.com/Ermir76/portfolio-ermir-biba)
-
-> Most of my work lives in private repositories — public activity here is just the tip of the iceberg.
