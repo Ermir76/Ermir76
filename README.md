@@ -1,17 +1,13 @@
-<div align="left">
-
 # 👋 Hi, I'm Ermir
 
-**Student · AI Engineer** — learning machine learning while building AI agent systems end to end.
-
-</div>
+**Student · AI Engineer** — studying machine learning and building AI agent systems end to end.
 
 ---
 
 ### 🧠 What I work on
-- **AI agents** — designing, building, and running them (runtime → tools → deployment)
-- **Machine learning** — studying the fundamentals properly, right now
-- **Full-stack apps** — from API to UI, Python and .NET
+- **AI agents** — from runtime and tools to deployment
+- **Machine learning** — learning the fundamentals, for real
+- **Full-stack apps** — API to UI, Python & .NET
 
 ### 🛠 Tech
 <p>
@@ -26,13 +22,11 @@
 </p>
 
 ### 🚀 How I ship
-Containerized, orchestrated, deployable — Docker + Kubernetes is how my projects go from laptop to production.
+Docker + Kubernetes — my projects leave the laptop as containers and land in a cluster.
 
 ### 📂 Elsewhere
 - 🎯 [Portfolio](https://github.com/Ermir76/portfolio-ermir-biba)
 
 ---
 
-<div align="left">
-Most of my work lives in private repos — what you see here is the tip of the iceberg.
-</div>
+_Most of my work lives in private repos — the public side is just the beginning._
